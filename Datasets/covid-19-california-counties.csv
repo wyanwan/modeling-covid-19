@@ -39856,7 +39856,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-02,739,Mariposa,California,6043.0,2704,20.0
 2022-02-02,739,Mendocino,California,6045.0,14067,109.0
 2022-02-02,739,Merced,California,6047.0,65263,749.0
-2022-02-02,739,Modoc,California,6049.0,1536,11.0
+2022-02-02,739,Modoc,California,6049.0,894,6.0
 2022-02-02,739,Mono,California,6051.0,3003,5.0
 2022-02-02,739,Monterey,California,6053.0,82209,674.0
 2022-02-02,739,Napa,California,6055.0,23305,116.0
@@ -39914,7 +39914,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-03,740,Mariposa,California,6043.0,2717,20.0
 2022-02-03,740,Mendocino,California,6045.0,14536,117.0
 2022-02-03,740,Merced,California,6047.0,65570,749.0
-2022-02-03,740,Modoc,California,6049.0,1536,11.0
+2022-02-03,740,Modoc,California,6049.0,898,6.0
 2022-02-03,740,Mono,California,6051.0,3004,5.0
 2022-02-03,740,Monterey,California,6053.0,84585,674.0
 2022-02-03,740,Napa,California,6055.0,23770,117.0
@@ -39972,7 +39972,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-04,741,Mariposa,California,6043.0,2728,20.0
 2022-02-04,741,Mendocino,California,6045.0,14606,117.0
 2022-02-04,741,Merced,California,6047.0,66051,752.0
-2022-02-04,741,Modoc,California,6049.0,1536,11.0
+2022-02-04,741,Modoc,California,6049.0,900,6.0
 2022-02-04,741,Mono,California,6051.0,3019,5.0
 2022-02-04,741,Monterey,California,6053.0,85075,676.0
 2022-02-04,741,Napa,California,6055.0,23884,118.0
@@ -40030,7 +40030,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-05,742,Mariposa,California,6043.0,2728,20.0
 2022-02-05,742,Mendocino,California,6045.0,14606,117.0
 2022-02-05,742,Merced,California,6047.0,66051,752.0
-2022-02-05,742,Modoc,California,6049.0,1536,11.0
+2022-02-05,742,Modoc,California,6049.0,900,6.0
 2022-02-05,742,Mono,California,6051.0,3019,5.0
 2022-02-05,742,Monterey,California,6053.0,85075,676.0
 2022-02-05,742,Napa,California,6055.0,23884,118.0
@@ -40088,7 +40088,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-06,743,Mariposa,California,6043.0,2728,20.0
 2022-02-06,743,Mendocino,California,6045.0,14606,117.0
 2022-02-06,743,Merced,California,6047.0,66051,752.0
-2022-02-06,743,Modoc,California,6049.0,1536,11.0
+2022-02-06,743,Modoc,California,6049.0,900,6.0
 2022-02-06,743,Mono,California,6051.0,3019,5.0
 2022-02-06,743,Monterey,California,6053.0,85075,676.0
 2022-02-06,743,Napa,California,6055.0,23884,118.0
@@ -40146,7 +40146,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-07,744,Mariposa,California,6043.0,2823,20.0
 2022-02-07,744,Mendocino,California,6045.0,14709,117.0
 2022-02-07,744,Merced,California,6047.0,66602,753.0
-2022-02-07,744,Modoc,California,6049.0,1536,11.0
+2022-02-07,744,Modoc,California,6049.0,911,6.0
 2022-02-07,744,Mono,California,6051.0,3016,5.0
 2022-02-07,744,Monterey,California,6053.0,85645,678.0
 2022-02-07,744,Napa,California,6055.0,24141,120.0
@@ -40204,7 +40204,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-08,745,Mariposa,California,6043.0,2834,20.0
 2022-02-08,745,Mendocino,California,6045.0,14777,109.0
 2022-02-08,745,Merced,California,6047.0,66602,753.0
-2022-02-08,745,Modoc,California,6049.0,1536,11.0
+2022-02-08,745,Modoc,California,6049.0,915,6.0
 2022-02-08,745,Mono,California,6051.0,3032,5.0
 2022-02-08,745,Monterey,California,6053.0,87166,678.0
 2022-02-08,745,Napa,California,6055.0,24148,120.0
@@ -40263,7 +40263,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-09,746,Mariposa,California,6043.0,2852,20.0
 2022-02-09,746,Mendocino,California,6045.0,14876,109.0
 2022-02-09,746,Merced,California,6047.0,68530,760.0
-2022-02-09,746,Modoc,California,6049.0,1536,11.0
+2022-02-09,746,Modoc,California,6049.0,920,6.0
 2022-02-09,746,Mono,California,6051.0,3047,5.0
 2022-02-09,746,Monterey,California,6053.0,92049,678.0
 2022-02-09,746,Napa,California,6055.0,25257,121.0
@@ -40321,7 +40321,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-10,747,Mariposa,California,6043.0,2867,20.0
 2022-02-10,747,Mendocino,California,6045.0,15071,109.0
 2022-02-10,747,Merced,California,6047.0,68563,763.0
-2022-02-10,747,Modoc,California,6049.0,1536,11.0
+2022-02-10,747,Modoc,California,6049.0,927,6.0
 2022-02-10,747,Mono,California,6051.0,3053,5.0
 2022-02-10,747,Monterey,California,6053.0,87421,680.0
 2022-02-10,747,Napa,California,6055.0,25369,121.0
@@ -40379,7 +40379,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-11,748,Mariposa,California,6043.0,2877,20.0
 2022-02-11,748,Mendocino,California,6045.0,15132,109.0
 2022-02-11,748,Merced,California,6047.0,68563,763.0
-2022-02-11,748,Modoc,California,6049.0,1536,11.0
+2022-02-11,748,Modoc,California,6049.0,933,6.0
 2022-02-11,748,Mono,California,6051.0,3055,5.0
 2022-02-11,748,Monterey,California,6053.0,87763,683.0
 2022-02-11,748,Napa,California,6055.0,25470,124.0
@@ -40437,7 +40437,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-12,749,Mariposa,California,6043.0,2877,20.0
 2022-02-12,749,Mendocino,California,6045.0,15132,109.0
 2022-02-12,749,Merced,California,6047.0,68563,763.0
-2022-02-12,749,Modoc,California,6049.0,1536,11.0
+2022-02-12,749,Modoc,California,6049.0,933,6.0
 2022-02-12,749,Mono,California,6051.0,3055,5.0
 2022-02-12,749,Monterey,California,6053.0,87763,683.0
 2022-02-12,749,Napa,California,6055.0,25470,124.0
@@ -40495,7 +40495,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-13,750,Mariposa,California,6043.0,2877,20.0
 2022-02-13,750,Mendocino,California,6045.0,15132,109.0
 2022-02-13,750,Merced,California,6047.0,68563,763.0
-2022-02-13,750,Modoc,California,6049.0,1536,11.0
+2022-02-13,750,Modoc,California,6049.0,933,6.0
 2022-02-13,750,Mono,California,6051.0,3055,5.0
 2022-02-13,750,Monterey,California,6053.0,87763,683.0
 2022-02-13,750,Napa,California,6055.0,25470,124.0
@@ -40553,7 +40553,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-14,751,Mariposa,California,6043.0,2890,20.0
 2022-02-14,751,Mendocino,California,6045.0,15214,109.0
 2022-02-14,751,Merced,California,6047.0,69498,763.0
-2022-02-14,751,Modoc,California,6049.0,1536,11.0
+2022-02-14,751,Modoc,California,6049.0,940,6.0
 2022-02-14,751,Mono,California,6051.0,3065,5.0
 2022-02-14,751,Monterey,California,6053.0,88216,685.0
 2022-02-14,751,Napa,California,6055.0,25683,127.0
@@ -40587,3 +40587,235 @@ date,day,county,state,fips,cases,deaths
 2022-02-14,751,Ventura,California,6111.0,178696,1370.0
 2022-02-14,751,Yolo,California,6113.0,38158,286.0
 2022-02-14,751,Yuba,California,6115.0,17080,107.0
+2022-02-15,752,Alameda,California,6001.0,259164,1681.0
+2022-02-15,752,Alpine,California,6003.0,126,0.0
+2022-02-15,752,Amador,California,6005.0,8786,77.0
+2022-02-15,752,Butte,California,6007.0,38247,360.0
+2022-02-15,752,Calaveras,California,6009.0,7477,106.0
+2022-02-15,752,Colusa,California,6011.0,4412,21.0
+2022-02-15,752,Contra Costa,California,6013.0,194811,1167.0
+2022-02-15,752,Del Norte,California,6015.0,5755,45.0
+2022-02-15,752,El Dorado,California,6017.0,29007,188.0
+2022-02-15,752,Fresno,California,6019.0,242960,2538.0
+2022-02-15,752,Glenn,California,6021.0,6371,58.0
+2022-02-15,752,Humboldt,California,6023.0,19033,135.0
+2022-02-15,752,Imperial,California,6025.0,64135,859.0
+2022-02-15,752,Inyo,California,6027.0,4458,52.0
+2022-02-15,752,Kern,California,6029.0,229034,2077.0
+2022-02-15,752,Kings,California,6031.0,52661,419.0
+2022-02-15,752,Lake,California,6033.0,10833,125.0
+2022-02-15,752,Lassen,California,6035.0,10416,65.0
+2022-02-15,752,Los Angeles,California,6037.0,2766865,29980.0
+2022-02-15,752,Madera,California,6039.0,41837,330.0
+2022-02-15,752,Marin,California,6041.0,35740,255.0
+2022-02-15,752,Mariposa,California,6043.0,2894,20.0
+2022-02-15,752,Mendocino,California,6045.0,15234,109.0
+2022-02-15,752,Merced,California,6047.0,69599,767.0
+2022-02-15,752,Modoc,California,6049.0,943,6.0
+2022-02-15,752,Mono,California,6051.0,3070,5.0
+2022-02-15,752,Monterey,California,6053.0,88328,689.0
+2022-02-15,752,Napa,California,6055.0,25716,127.0
+2022-02-15,752,Nevada,California,6057.0,16848,121.0
+2022-02-15,752,Orange,California,6059.0,577043,6376.0
+2022-02-15,752,Placer,California,6061.0,68297,554.0
+2022-02-15,752,Plumas,California,6063.0,2982,13.0
+2022-02-15,752,Riverside,California,6065.0,606348,6104.0
+2022-02-15,752,Sacramento,California,6067.0,295028,2837.0
+2022-02-15,752,San Benito,California,6069.0,13118,91.0
+2022-02-15,752,San Bernardino,California,6071.0,575225,6372.0
+2022-02-15,752,San Diego,California,6073.0,770625,4894.0
+2022-02-15,752,San Francisco,California,6075.0,129321,756.0
+2022-02-15,752,San Joaquin,California,6077.0,171791,2018.0
+2022-02-15,752,San Luis Obispo,California,6079.0,54300,416.0
+2022-02-15,752,San Mateo,California,6081.0,123585,685.0
+2022-02-15,752,Santa Barbara,California,6083.0,88230,637.0
+2022-02-15,752,Santa Clara,California,6085.0,314107,2128.0
+2022-02-15,752,Santa Cruz,California,6087.0,47083,250.0
+2022-02-15,752,Shasta,California,6089.0,35764,537.0
+2022-02-15,752,Sierra,California,6091.0,311,0.0
+2022-02-15,752,Siskiyou,California,6093.0,7134,93.0
+2022-02-15,752,Solano,California,6095.0,83781,427.0
+2022-02-15,752,Sonoma,California,6097.0,82487,461.0
+2022-02-15,752,Stanislaus,California,6099.0,132909,1597.0
+2022-02-15,752,Sutter,California,6101.0,21746,217.0
+2022-02-15,752,Tehama,California,6103.0,14220,151.0
+2022-02-15,752,Trinity,California,6105.0,1397,20.0
+2022-02-15,752,Tulare,California,6107.0,128555,1276.0
+2022-02-15,752,Tuolumne,California,6109.0,12672,170.0
+2022-02-15,752,Ventura,California,6111.0,178999,1370.0
+2022-02-15,752,Yolo,California,6113.0,38213,286.0
+2022-02-15,752,Yuba,California,6115.0,17080,108.0
+2022-02-16,753,Alameda,California,6001.0,260114,1683.0
+2022-02-16,753,Alpine,California,6003.0,126,0.0
+2022-02-16,753,Amador,California,6005.0,8805,77.0
+2022-02-16,753,Butte,California,6007.0,38312,361.0
+2022-02-16,753,Calaveras,California,6009.0,7495,106.0
+2022-02-16,753,Colusa,California,6011.0,4419,21.0
+2022-02-16,753,Contra Costa,California,6013.0,195099,1179.0
+2022-02-16,753,Del Norte,California,6015.0,5755,45.0
+2022-02-16,753,El Dorado,California,6017.0,29080,189.0
+2022-02-16,753,Fresno,California,6019.0,243273,2543.0
+2022-02-16,753,Glenn,California,6021.0,6379,60.0
+2022-02-16,753,Humboldt,California,6023.0,19066,135.0
+2022-02-16,753,Imperial,California,6025.0,64183,859.0
+2022-02-16,753,Inyo,California,6027.0,4457,52.0
+2022-02-16,753,Kern,California,6029.0,229772,2087.0
+2022-02-16,753,Kings,California,6031.0,52739,420.0
+2022-02-16,753,Lake,California,6033.0,10855,125.0
+2022-02-16,753,Lassen,California,6035.0,10444,65.0
+2022-02-16,753,Los Angeles,California,6037.0,2770076,30081.0
+2022-02-16,753,Madera,California,6039.0,41903,330.0
+2022-02-16,753,Marin,California,6041.0,35791,255.0
+2022-02-16,753,Mariposa,California,6043.0,2899,20.0
+2022-02-16,753,Mendocino,California,6045.0,15273,109.0
+2022-02-16,753,Merced,California,6047.0,69768,772.0
+2022-02-16,753,Modoc,California,6049.0,946,6.0
+2022-02-16,753,Mono,California,6051.0,3068,5.0
+2022-02-16,753,Monterey,California,6053.0,88451,689.0
+2022-02-16,753,Napa,California,6055.0,25772,127.0
+2022-02-16,753,Nevada,California,6057.0,16862,121.0
+2022-02-16,753,Orange,California,6059.0,577597,6395.0
+2022-02-16,753,Placer,California,6061.0,68344,554.0
+2022-02-16,753,Plumas,California,6063.0,2989,13.0
+2022-02-16,753,Riverside,California,6065.0,607114,6113.0
+2022-02-16,753,Sacramento,California,6067.0,295431,2847.0
+2022-02-16,753,San Benito,California,6069.0,13136,91.0
+2022-02-16,753,San Bernardino,California,6071.0,575690,6372.0
+2022-02-16,753,San Diego,California,6073.0,774209,4914.0
+2022-02-16,753,San Francisco,California,6075.0,129499,756.0
+2022-02-16,753,San Joaquin,California,6077.0,171946,2021.0
+2022-02-16,753,San Luis Obispo,California,6079.0,54369,419.0
+2022-02-16,753,San Mateo,California,6081.0,123709,685.0
+2022-02-16,753,Santa Barbara,California,6083.0,88267,640.0
+2022-02-16,753,Santa Clara,California,6085.0,314619,2131.0
+2022-02-16,753,Santa Cruz,California,6087.0,47212,250.0
+2022-02-16,753,Shasta,California,6089.0,35853,537.0
+2022-02-16,753,Sierra,California,6091.0,311,0.0
+2022-02-16,753,Siskiyou,California,6093.0,7152,94.0
+2022-02-16,753,Solano,California,6095.0,83874,426.0
+2022-02-16,753,Sonoma,California,6097.0,82584,461.0
+2022-02-16,753,Stanislaus,California,6099.0,133147,1606.0
+2022-02-16,753,Sutter,California,6101.0,21781,218.0
+2022-02-16,753,Tehama,California,6103.0,14251,151.0
+2022-02-16,753,Trinity,California,6105.0,1399,20.0
+2022-02-16,753,Tulare,California,6107.0,128752,1279.0
+2022-02-16,753,Tuolumne,California,6109.0,12726,171.0
+2022-02-16,753,Ventura,California,6111.0,179216,1382.0
+2022-02-16,753,Yolo,California,6113.0,38342,289.0
+2022-02-16,753,Yuba,California,6115.0,17112,109.0
+2022-02-17,754,Alameda,California,6001.0,258924,1691.0
+2022-02-17,754,Alpine,California,6003.0,126,0.0
+2022-02-17,754,Amador,California,6005.0,8834,77.0
+2022-02-17,754,Butte,California,6007.0,38565,363.0
+2022-02-17,754,Calaveras,California,6009.0,7477,107.0
+2022-02-17,754,Colusa,California,6011.0,4439,21.0
+2022-02-17,754,Contra Costa,California,6013.0,194936,1179.0
+2022-02-17,754,Del Norte,California,6015.0,5755,45.0
+2022-02-17,754,El Dorado,California,6017.0,29133,189.0
+2022-02-17,754,Fresno,California,6019.0,244263,2542.0
+2022-02-17,754,Glenn,California,6021.0,6382,60.0
+2022-02-17,754,Humboldt,California,6023.0,19151,135.0
+2022-02-17,754,Imperial,California,6025.0,64540,860.0
+2022-02-17,754,Inyo,California,6027.0,4462,52.0
+2022-02-17,754,Kern,California,6029.0,230630,2095.0
+2022-02-17,754,Kings,California,6031.0,52917,421.0
+2022-02-17,754,Lake,California,6033.0,10998,125.0
+2022-02-17,754,Lassen,California,6035.0,10453,65.0
+2022-02-17,754,Los Angeles,California,6037.0,2773273,30146.0
+2022-02-17,754,Madera,California,6039.0,42195,330.0
+2022-02-17,754,Marin,California,6041.0,34500,257.0
+2022-02-17,754,Mariposa,California,6043.0,2903,20.0
+2022-02-17,754,Mendocino,California,6045.0,15367,109.0
+2022-02-17,754,Merced,California,6047.0,69912,774.0
+2022-02-17,754,Modoc,California,6049.0,945,6.0
+2022-02-17,754,Mono,California,6051.0,3070,5.0
+2022-02-17,754,Monterey,California,6053.0,89259,689.0
+2022-02-17,754,Napa,California,6055.0,25830,128.0
+2022-02-17,754,Nevada,California,6057.0,16848,121.0
+2022-02-17,754,Orange,California,6059.0,578359,6419.0
+2022-02-17,754,Placer,California,6061.0,68369,556.0
+2022-02-17,754,Plumas,California,6063.0,2982,13.0
+2022-02-17,754,Riverside,California,6065.0,607861,6131.0
+2022-02-17,754,Sacramento,California,6067.0,295487,2878.0
+2022-02-17,754,San Benito,California,6069.0,13147,92.0
+2022-02-17,754,San Bernardino,California,6071.0,575784,6379.0
+2022-02-17,754,San Diego,California,6073.0,776255,4931.0
+2022-02-17,754,San Francisco,California,6075.0,129571,756.0
+2022-02-17,754,San Joaquin,California,6077.0,171592,2032.0
+2022-02-17,754,San Luis Obispo,California,6079.0,54295,425.0
+2022-02-17,754,San Mateo,California,6081.0,123267,685.0
+2022-02-17,754,Santa Barbara,California,6083.0,88612,642.0
+2022-02-17,754,Santa Clara,California,6085.0,314480,2131.0
+2022-02-17,754,Santa Cruz,California,6087.0,47094,250.0
+2022-02-17,754,Shasta,California,6089.0,35765,537.0
+2022-02-17,754,Sierra,California,6091.0,309,0.0
+2022-02-17,754,Siskiyou,California,6093.0,7173,94.0
+2022-02-17,754,Solano,California,6095.0,83938,422.0
+2022-02-17,754,Sonoma,California,6097.0,82541,464.0
+2022-02-17,754,Stanislaus,California,6099.0,133425,1609.0
+2022-02-17,754,Sutter,California,6101.0,21839,218.0
+2022-02-17,754,Tehama,California,6103.0,14301,152.0
+2022-02-17,754,Trinity,California,6105.0,1409,20.0
+2022-02-17,754,Tulare,California,6107.0,129188,1283.0
+2022-02-17,754,Tuolumne,California,6109.0,12774,171.0
+2022-02-17,754,Ventura,California,6111.0,179182,1382.0
+2022-02-17,754,Yolo,California,6113.0,38305,292.0
+2022-02-17,754,Yuba,California,6115.0,17174,110.0
+2022-02-18,755,Alameda,California,6001.0,259290,1700.0
+2022-02-18,755,Alpine,California,6003.0,126,0.0
+2022-02-18,755,Amador,California,6005.0,8840,79.0
+2022-02-18,755,Butte,California,6007.0,38643,364.0
+2022-02-18,755,Calaveras,California,6009.0,7495,107.0
+2022-02-18,755,Colusa,California,6011.0,4444,21.0
+2022-02-18,755,Contra Costa,California,6013.0,195310,1190.0
+2022-02-18,755,Del Norte,California,6015.0,5820,45.0
+2022-02-18,755,El Dorado,California,6017.0,29173,189.0
+2022-02-18,755,Fresno,California,6019.0,244801,2544.0
+2022-02-18,755,Glenn,California,6021.0,6390,61.0
+2022-02-18,755,Humboldt,California,6023.0,19202,136.0
+2022-02-18,755,Imperial,California,6025.0,64606,861.0
+2022-02-18,755,Inyo,California,6027.0,4467,52.0
+2022-02-18,755,Kern,California,6029.0,231871,2101.0
+2022-02-18,755,Kings,California,6031.0,53066,421.0
+2022-02-18,755,Lake,California,6033.0,11037,126.0
+2022-02-18,755,Lassen,California,6035.0,10466,65.0
+2022-02-18,755,Los Angeles,California,6037.0,2777869,30216.0
+2022-02-18,755,Madera,California,6039.0,42339,330.0
+2022-02-18,755,Marin,California,6041.0,34560,258.0
+2022-02-18,755,Mariposa,California,6043.0,2907,20.0
+2022-02-18,755,Mendocino,California,6045.0,15387,110.0
+2022-02-18,755,Merced,California,6047.0,70048,775.0
+2022-02-18,755,Modoc,California,6049.0,1536,11.0
+2022-02-18,755,Mono,California,6051.0,3072,5.0
+2022-02-18,755,Monterey,California,6053.0,89400,688.0
+2022-02-18,755,Napa,California,6055.0,25903,127.0
+2022-02-18,755,Nevada,California,6057.0,16873,121.0
+2022-02-18,755,Orange,California,6059.0,578444,6450.0
+2022-02-18,755,Placer,California,6061.0,68508,561.0
+2022-02-18,755,Plumas,California,6063.0,2989,13.0
+2022-02-18,755,Riverside,California,6065.0,608821,6130.0
+2022-02-18,755,Sacramento,California,6067.0,296151,2878.0
+2022-02-18,755,San Benito,California,6069.0,13168,92.0
+2022-02-18,755,San Bernardino,California,6071.0,576582,6400.0
+2022-02-18,755,San Diego,California,6073.0,777194,4947.0
+2022-02-18,755,San Francisco,California,6075.0,129781,756.0
+2022-02-18,755,San Joaquin,California,6077.0,171923,2033.0
+2022-02-18,755,San Luis Obispo,California,6079.0,54414,424.0
+2022-02-18,755,San Mateo,California,6081.0,123477,700.0
+2022-02-18,755,Santa Barbara,California,6083.0,88632,644.0
+2022-02-18,755,Santa Clara,California,6085.0,315118,2139.0
+2022-02-18,755,Santa Cruz,California,6087.0,47352,250.0
+2022-02-18,755,Shasta,California,6089.0,35853,545.0
+2022-02-18,755,Sierra,California,6091.0,309,0.0
+2022-02-18,755,Siskiyou,California,6093.0,7201,94.0
+2022-02-18,755,Solano,California,6095.0,84110,424.0
+2022-02-18,755,Sonoma,California,6097.0,82742,469.0
+2022-02-18,755,Stanislaus,California,6099.0,133823,1614.0
+2022-02-18,755,Sutter,California,6101.0,21894,218.0
+2022-02-18,755,Tehama,California,6103.0,14323,152.0
+2022-02-18,755,Trinity,California,6105.0,1409,20.0
+2022-02-18,755,Tulare,California,6107.0,129367,1286.0
+2022-02-18,755,Tuolumne,California,6109.0,12808,175.0
+2022-02-18,755,Ventura,California,6111.0,179396,1399.0
+2022-02-18,755,Yolo,California,6113.0,38384,293.0
+2022-02-18,755,Yuba,California,6115.0,17226,112.0
