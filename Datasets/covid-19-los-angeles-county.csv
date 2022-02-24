@@ -756,5 +756,8 @@ date,day,county,state,fips,cases,deaths
 2022-02-18,755,Los Angeles,California,6037.0,2777869,30216.0
 2022-02-19,756,Los Angeles,California,6037.0,2781027,30300.0
 2022-02-20,757,Los Angeles,California,6037.0,2783657,30356.0
+<<<<<<< HEAD
 2022-02-21,758,Los Angeles,California,6037.0,2784980,30376.0
 2022-02-22,759,Los Angeles,California,6037.0,2786153,30411.0
+=======
+>>>>>>> 1e877bee4eda740b995058cf500b33d5bbe53d70

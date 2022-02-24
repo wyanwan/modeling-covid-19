@@ -40843,7 +40843,11 @@ date,day,county,state,fips,cases,deaths
 2022-02-19,756,Mariposa,California,6043.0,2907,20.0
 2022-02-19,756,Mendocino,California,6045.0,15387,110.0
 2022-02-19,756,Merced,California,6047.0,70048,775.0
+<<<<<<< HEAD
 2022-02-19,756,Modoc,California,6049.0,948,6.0
+=======
+2022-02-19,756,Modoc,California,6049.0,1536,11.0
+>>>>>>> 1e877bee4eda740b995058cf500b33d5bbe53d70
 2022-02-19,756,Mono,California,6051.0,3072,5.0
 2022-02-19,756,Monterey,California,6053.0,89400,688.0
 2022-02-19,756,Napa,California,6055.0,25903,127.0
@@ -40901,7 +40905,11 @@ date,day,county,state,fips,cases,deaths
 2022-02-20,757,Mariposa,California,6043.0,2907,20.0
 2022-02-20,757,Mendocino,California,6045.0,15387,110.0
 2022-02-20,757,Merced,California,6047.0,70048,775.0
+<<<<<<< HEAD
 2022-02-20,757,Modoc,California,6049.0,948,6.0
+=======
+2022-02-20,757,Modoc,California,6049.0,1536,11.0
+>>>>>>> 1e877bee4eda740b995058cf500b33d5bbe53d70
 2022-02-20,757,Mono,California,6051.0,3072,5.0
 2022-02-20,757,Monterey,California,6053.0,89400,688.0
 2022-02-20,757,Napa,California,6055.0,25903,127.0
@@ -40935,6 +40943,7 @@ date,day,county,state,fips,cases,deaths
 2022-02-20,757,Ventura,California,6111.0,179396,1399.0
 2022-02-20,757,Yolo,California,6113.0,38384,293.0
 2022-02-20,757,Yuba,California,6115.0,17226,112.0
+<<<<<<< HEAD
 2022-02-21,758,Alameda,California,6001.0,259290,1713.0
 2022-02-21,758,Alpine,California,6003.0,126,0.0
 2022-02-21,758,Amador,California,6005.0,8840,79.0
@@ -41051,3 +41060,5 @@ date,day,county,state,fips,cases,deaths
 2022-02-22,759,Ventura,California,6111.0,180004,1401.0
 2022-02-22,759,Yolo,California,6113.0,38539,292.0
 2022-02-22,759,Yuba,California,6115.0,17226,110.0
+=======
+>>>>>>> 1e877bee4eda740b995058cf500b33d5bbe53d70
